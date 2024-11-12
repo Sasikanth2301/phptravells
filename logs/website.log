@@ -1,0 +1,70 @@
+2024-11-08 18:24:44:INFO:**********Test_01_Admin_Login**********
+2024-11-08 18:24:44:INFO:**********Verfication of title**********
+2024-11-08 18:24:47:INFO:**********title matched**********
+2024-11-08 18:24:48:INFO:**********test_valid_admin_login**********
+2024-11-08 18:24:55:INFO:**********text matched**********
+2024-11-08 18:25:03:INFO:**********popup matches successfully**********
+2024-11-08 18:46:13:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 18:46:13:INFO:**********Verfication of title**********
+2024-11-08 18:46:14:INFO:**********title matched**********
+2024-11-08 18:46:15:INFO:**********test_valid_admin_login**********
+2024-11-08 18:46:21:INFO:**********text matched**********
+2024-11-08 18:46:29:INFO:**********popup matches successfully**********
+2024-11-08 19:19:32:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 19:19:32:INFO:**********Verfication of title**********
+2024-11-08 19:19:34:INFO:**********title matched**********
+2024-11-08 19:19:34:INFO:**********test_valid_admin_login**********
+2024-11-08 19:19:45:INFO:**********text matched**********
+2024-11-08 19:19:52:INFO:**********popup matches successfully**********
+2024-11-08 19:21:49:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 19:21:49:INFO:**********Verfication of title**********
+2024-11-08 19:21:51:INFO:**********title matched**********
+2024-11-08 19:21:53:INFO:**********test_valid_admin_login**********
+2024-11-08 19:21:58:INFO:**********text matched**********
+2024-11-08 19:23:13:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 19:23:13:INFO:**********Verfication of title**********
+2024-11-08 19:23:14:INFO:**********title matched**********
+2024-11-08 19:23:15:INFO:**********test_valid_admin_login**********
+2024-11-08 19:23:19:INFO:**********text matched**********
+2024-11-08 19:23:27:INFO:**********popup matches successfully**********
+2024-11-08 19:23:42:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 19:23:42:INFO:**********Verfication of title**********
+2024-11-08 19:23:44:INFO:**********title matched**********
+2024-11-08 19:23:45:INFO:**********test_valid_admin_login**********
+2024-11-08 19:23:50:INFO:**********text matched**********
+2024-11-08 19:23:58:INFO:**********popup matches successfully**********
+2024-11-08 21:13:35:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 21:13:35:INFO:**********Verfication of title**********
+2024-11-08 21:13:36:INFO:**********title matched**********
+2024-11-08 21:13:37:INFO:**********test_valid_admin_login**********
+2024-11-08 21:13:42:INFO:**********text matched**********
+2024-11-08 21:13:50:INFO:**********popup matches successfully**********
+2024-11-08 21:26:54:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 21:26:54:INFO:**********Verfication of title**********
+2024-11-08 21:26:56:INFO:**********title matched**********
+2024-11-08 21:26:57:INFO:**********test_valid_admin_login**********
+2024-11-08 21:27:02:INFO:**********text matched**********
+2024-11-08 21:27:09:INFO:**********popup matches successfully**********
+2024-11-08 21:29:11:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 21:29:11:INFO:**********Verfication of title**********
+2024-11-08 21:29:13:INFO:**********title matched**********
+2024-11-08 21:29:13:INFO:**********test_valid_admin_login**********
+2024-11-08 21:29:18:INFO:**********text matched**********
+2024-11-08 21:29:33:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 21:29:33:INFO:**********Verfication of title**********
+2024-11-08 21:29:35:INFO:**********title matched**********
+2024-11-08 21:29:35:INFO:**********test_valid_admin_login**********
+2024-11-08 21:29:40:INFO:**********text matched**********
+2024-11-08 21:29:48:INFO:**********popup matches successfully**********
+2024-11-08 21:31:33:CRITICAL:**********Test_01_Admin_Login**********
+2024-11-08 21:31:33:INFO:**********Verfication of title**********
+2024-11-08 21:31:35:INFO:**********title matched**********
+2024-11-08 21:31:36:INFO:**********test_valid_admin_login**********
+2024-11-08 21:31:42:INFO:**********text matched**********
+2024-11-08 21:31:51:INFO:**********popup matches successfully**********
+2024-11-11 15:10:03:INFO:**********test_valid_admin_login_data_driven**********
+2024-11-11 15:14:14:INFO:**********test_valid_admin_login_data_driven**********
+2024-11-11 15:14:23:INFO:Test data is passed 
+2024-11-11 15:14:29:INFO:Test data is passed 
+2024-11-11 15:14:33:INFO:Test data is passed 
+2024-11-11 15:14:33:INFO:testcase is passed
